@@ -17,7 +17,7 @@ At the present time, all the aforementioned ontologies are contained in a single
 
 The documentation folder contains the following files:
 
-* [SOfIoTS Ontology Documention.pdf](Documentation/SOfIoTS%20Ontology%20Documention.pdf): Documentation for a subset of the classes and relations asserted in [SOFIOTS_CCO_Merged.owl](SOFIOTS_CCO_Merged.owl).
+* [SOfIoTS Ontology Documentation.pdf](Documentation/SOfIoTS%20Ontology%20Documentation.pdf): Documentation for a subset of the classes and relations asserted in [SOFIOTS_CCO_Merged.owl](SOFIOTS_CCO_Merged.owl).
 * [SOfIoTS D4 Reportv2.pdf](Documentation/SOfIoTS%20D4%20Reportv2.pdf): Discusses the results of work exploring the ontic status of value, risk, and security from a BFO perspective.
 
 For further information about the SOfIoTS project, contact Dr Paul Smart ([ps02v@ecs.soton.ac.uk](mailto:ps02v@ecs.soton.ac.uk)). 
