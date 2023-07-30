@@ -1,5 +1,5 @@
 # SOfIoTS Common Core Ontology
-The SOfIoTS Common Core Ontology (CCO) was developed as part of the [SOfIoTS](https://petras-iot.org/project/secure-ontologies-for-iot-systems-sofiots/) project, which forms of the [PETRAS National Centre of Excellence for IoT Systems Security](https://petras-iot.org/). The ontology is intended to support the representation of risk and security in the context of the Internet of Things (IoT). It also includes support for the representation of IoT devices, digital twins, and IoT data flows. 
+The SOfIoTS Common Core Ontology was developed as part of the [SOfIoTS](https://petras-iot.org/project/secure-ontologies-for-iot-systems-sofiots/) project, which forms of the [PETRAS National Centre of Excellence for IoT Systems Security](https://petras-iot.org/). The ontology is intended to support the representation of risk and security in the context of the Internet of Things (IoT). It also includes support for the representation of IoT devices, digital twins, and IoT data flows. 
 
 The SOfIoTS CCO is intended to to be compliant with the overarching architectural framework of Basic Formal Ontology (BFO). To this end, it builds on the following ontologies:
 
@@ -13,4 +13,12 @@ These ontologies serve as the basis for the following ontologies, each of which 
 * Risk and Security Ontology: The risk and security ontology is designed to represent risk- and security-related entities, such as threat processes, threat paths, hazardous situations, and security mechanisms.
 * Internet of Things Ontology: The IoT ontology is intended to represent IoT devices, digital twins, and IoT data flows.
 
-All the aforementioned ontologies are contained in a single (merged) ontology
+At the present time, all the aforementioned ontologies are contained in a single (merged) ontology: [SOFIOTS_CCO_Merged.owl](SOFIOTS_CCO_Merged.owl).
+
+The documentation folder contains the following files:
+
+* SOfIoTS Ontology Documention.pdf: Documentation for a subset of the classes and relations asserted in SOFIOTS_CCO_Merged.owl.
+
+For further information about the SOfIoTS project, contact Dr Paul Smart ([ps02v@ecs.soton.ac.uk](mailto:ps02v@ecs.soton.ac.uk)). 
+
+
